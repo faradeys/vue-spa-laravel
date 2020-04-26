@@ -1,0 +1,16 @@
+{
+    "name": "app",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve:app": "cd resources/frontend/app && yarn run serve",
+        "build:app": "cd resources/frontend/app && yarn run build",
+        "lint:app": "cd resources/frontend/app && yarn run lint",
+        "test:app": "cd resources/frontend/app && yarn run test:unit"
+    },
+    "devDependencies": {
+        "bootstrap": "^4.0.0",
+        "jquery": "^3.2",
+        "popper.js": "^1.12"
+    }
+}
