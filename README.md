@@ -1,3 +1,5 @@
+# vue.js + auth + multilanguage + laravel
+
 ## deploy
 ```
 composer install
